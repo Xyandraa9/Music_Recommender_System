@@ -1,0 +1,7 @@
+venv
+MusicPlayer.rar
+db.sqlite3
+trained_model.sav
+__pycache__
+migrations/
+
