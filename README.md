@@ -6,28 +6,28 @@ I created a basic Music Recommender System using Collaborative Filtering and K-M
 
 1) Create environment using following command in cmd:  
 
-   python -m venv env
-   ./env/Scripts/activate
+   `python -m venv env
+   ./env/Scripts/activate`
    
 2) Type this command to download dependencies in local machine:
 
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
    
 3) Make migrations:
 
-   py manage.py makemigrations musicapp
+   `py manage.py makemigrations musicapp`
    
 4) Go to browser and type the following in the search bar to create the database:
 
-   localhost:8000/fill_data/songs
+  ` localhost:8000/fill_data/songs`
    
 5) Train the model:
 
-   localhost:8000/train
+   `localhost:8000/train`
    
 6) Type the following command in cmd:
 
-   python manage.py runserver
+   `python manage.py runserver`
    
 7) Open the browser in default port localhost:8000
 
