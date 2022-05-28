@@ -1,6 +1,6 @@
 # Music Recommender System
 
-I created a Music Recommender System using Collaborative Filtering and K-Means Clustering algorithm.
+I created a basic Music Recommender System using Collaborative Filtering and K-Means Clustering algorithm.
 
 ## Steps to run the app
 1) Create environment using following command in cmd:  
